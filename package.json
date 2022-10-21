@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/akash2040/Generate_Readme/issues"
   },
-  "homepage": "https://github.com/akash2040/Generate_Readme#readme"
+  "homepage": "https://github.com/akash2040/Generate_Readme#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
